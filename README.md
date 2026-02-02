@@ -20,13 +20,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/SEUINSTAGRAM">
+  <a href="https://www.instagram.com/nilo_.calou">
     <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:SEUEMAIL">
+  <a href="mailto:nilo.calou@hotmail.com">
     <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://portfolio.seusite.com">
+  <a href="https://www.sensestore.com.br">
     <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -47,12 +47,6 @@ Desenvolvedor focado em sistemas completos para FiveM / GTA RP, com prioridade e
 ---
 
 ## 📊 Status & Grind
-
-### GitHub Stats
-<p align="left">
-  <img height="165"
-    src="https://github-readme-streak-stats.herokuapp.com?user=NetoCalouDev&theme=onedark-duo&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
-</p>
 
 ### Repo / Build / Quality
 <p align="left">
