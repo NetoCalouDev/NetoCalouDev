@@ -39,19 +39,7 @@ Desenvolvedor focado em sistemas completos para FiveM / GTA RP, com prioridade e
 ### GitHub Stats
 <p align="left">
   <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=NetoCalouDev&show_icons=true&hide_border=true&bg_color=020617&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-</p>
-
-### GitHub Streak
-<p align="left">
-  <img height="165"
-    src="https://github-readme-streak-stats.herokuapp.com?user=NetoCalouDev&hide_border=true&background=020617&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
-</p>
-
-### Most Used Languages
-<p align="left">
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoCalouDev&layout=compact&hide_border=true&bg_color=020617&title_color=ffffff&text_color=ffffff" />
+    src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NetoCalouDev&theme=onedark-duo&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" />
 </p>
 
 ### Repo / Build Status
