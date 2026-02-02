@@ -1,86 +1,161 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SEU%20NOME%20AQUI&fontAlignY=35&color=0:0f172a,100:111827&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Raavis%20RP%20Developer&fontAlignY=38&color=0:020617,100:0f172a&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <b>🎮 FiveM/GTA RP Dev</b> • <b>🧩 Systems</b> • <b>🖥️ NUI UI</b> • <b>⚙️ Performance</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=900&lines=FiveM+%2F+GTA+RP+Developer;Lua+%7C+NUI+%7C+vRP+Creative+%7C+oxmysql;Invent%C3%A1rios%2C+garagens%2C+tablets+e+UIs+premium;Performance%2C+seguran%C3%A7a+e+arquitetura+limpa" />
 </p>
 
 <p align="center">
-  <i>Construo experiências sólidas para roleplay: inventário, garagem, HUD, tablet, sistemas e UIs NUI.</i>
+  🎮 FiveM & GTA RP Developer • 🧩 Systems • 🖥️ NUI UI • ⚙️ Performance
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/SEULINK"><img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://t.me/SEUUSUARIO"><img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="mailto:SEUEMAIL"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  Desenvolvedor focado em criar sistemas profissionais para servidores GTA RP,
+  com alta performance, organização e experiência de usuário.
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/SEUINSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:SEUEMAIL">
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://fivem.net/">
+    <img src="https://img.shields.io/badge/FiveM%20Developer-020617?style=for-the-badge&logo=rockstargames&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🧠 My Vibe Statement
-> “Eu gosto de transformar ideias em sistemas estáveis e rápidos.  
-> NUI responsiva, backend limpo, logs, configs bem feitas e foco total em performance.”
 
-- 🚀 **Foco:** FiveM/vRP • UIs NUI • otimização • arquitetura simples e escalável  
-- 🧩 **Estilo:** código organizado, configs claras, menos dependências, mais performance
+Sou desenvolvedor especializado em sistemas para FiveM / GTA RP,
+com foco real em:
+
+- performance no client e no server
+- UIs NUI modernas e responsivas
+- backend organizado e seguro
+- facilidade de manutenção para equipes de staff
+- integração total com a base vRP Creative
+
+Transformo ideias de roleplay em sistemas sólidos e prontos para produção.
+
+---
+
+## 🚀 Especialidade
+
+✔ Sistemas completos para GTA RP / FiveM  
+✔ Integração nativa com vRP Creative  
+✔ NUI moderna em JavaScript puro  
+✔ Backend em Lua otimizado  
+✔ Persistência com oxmysql  
+✔ Organização profissional de resources  
 
 ---
 
 ## 🧰 Tech Stack & Arsenal
 
-**Core**
-![Lua](https://img.shields.io/badge/Lua-111827?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white)
+### Core
 
-**Database / Tools**
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-020617?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=white)
 
-**Nice to have**
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white)
+### Banco e base
+
+![MySQL](https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=white)
+![oxmysql](https://img.shields.io/badge/oxmysql-020617?style=for-the-badge&logoColor=white)
+![vRP](https://img.shields.io/badge/vRP%20Creative-020617?style=for-the-badge&logoColor=white)
+
+### Tooling
+
+![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-## 📌 Epic Projects & Quests (Destaques)
+## 📌 Epic Projects & Quests
 
-- 🎒 **Inventory NUI** — UI moderna + drag/drop + identidade + drops no chão  
-- 🚗 **Garage System** — spawn/impound/permissions + logs + proteção anti-abuso  
-- 🏥 **Hospital Tablet** — dashboard, chamados, registros, gerenciamento  
-- ⛽ **FuelTech System** — ajustes, tuning, persistência por veículo  
-- 🧱 **Maps/Resources Toolkit** — organização de assets e validação de manifests  
-- 🔧 **vRP Utils Pack** — helpers, wrappers, callbacks, perf & debug
+- 🎒 Inventory NUI  
+  Sistema completo com drag & drop, identidade, drops no chão e inspect.
 
-> **Dica:** deixe cada repo com prints/GIF no README e 1 vídeo curto mostrando.
+- 🚗 Garage System  
+  Garagem com spawn seguro, permissões, logs, homes e serviços.
+
+- 🏥 Hospital Tablet  
+  Tablet médico com chamados, dashboard, funcionários e registros.
+
+- ⛽ FuelTech System  
+  Tuning avançado com persistência por veículo, turbo e itens.
+
+- 🧱 Map & Resource Toolkit  
+  Organização, separação e validação de mapas e assets.
+
+- 🔧 vRP Utils Pack  
+  Helpers, wrappers, callbacks, cache e debug.
 
 ---
 
 ## 📈 GitHub Stats & Grind
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&hide_title=true&hide_border=true&bg_color=0f172a&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=SEUUSUARIO&hide_border=true&background=0f172a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&hide_border=true&bg_color=020617&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&hide_border=true&bg_color=0f172a&title_color=ffffff&text_color=ffffff" />
+  <img height="180"
+       src="https://github-readme-streak-stats.herokuapp.com?user=SEUUSUARIO&hide_border=true&background=020617&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff"/>
+</p>
+
+<p align="center">
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&hide_border=true&bg_color=020617&title_color=ffffff&text_color=ffffff"/>
 </p>
 
 ---
 
 ## 🎯 My Mission
-- ✅ Criar scripts e UIs com **experiência premium**
-- ⚡ Otimização real: menos loops, menos NUI pesada, mais cache e eventos bem feitos
-- 🔒 Segurança: validação server-side + anti-exploit básico
+
+Criar sistemas para GTA RP que entreguem:
+
+- melhor experiência ao jogador
+- melhor controle para a staff
+- menor consumo de client e server
+- menos bugs em produção
+- manutenção simples e rápida
+
+---
+
+## 🧩 Padrão de arquitetura que utilizo
+
+- validações server-side
+- callbacks padronizados
+- eventos desacoplados
+- configs fora do core
+- cache de dados frequentes
+- separação real de:
+  - client
+  - server
+  - shared
+  - ui
+- logs e webhooks organizados
 
 ---
 
 ## 🤝 Let’s Team Up
-Se você quer um sistema bem feito pro seu servidor (ou parceria em projetos):
-- 💬 Discord: **SEUNICK#0000**
-- 📩 Email: **SEUEMAIL**
-- 📲 Telegram: **@SEUUSUARIO**
+
+Parcerias, freelas e sistemas sob medida para servidores RP.
+
+📸 Instagram → https://www.instagram.com/SEUINSTAGRAM  
+📩 Email → SEUEMAIL  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f172a,100:020617"/>
+</p>
