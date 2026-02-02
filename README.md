@@ -67,7 +67,7 @@ Desenvolvedor focado em sistemas completos para FiveM / GTA RP, com prioridade e
 ## 🎧 Em execução no Spotify
 <p align="left">
   <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31phwy6xhoar4ngbs4mytze34rlu&cover_image=true&theme=default&show_offline=false&background_color=020617&interchange=false&bar_color=22c55e&bar_color_cover=false" />
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31phwy6xhoar4ngbs4mytze34rlu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark" />
 </p>
 
 ---
